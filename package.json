@@ -1,0 +1,20 @@
+{
+  "name": "ecommerce-api",
+  "version": "1.0.0",
+  "description": "API para gerenciamento de produtos e carrinhos.",
+  "main": "src/app.js",
+  "type": "module",
+  "scripts": {
+    "start": "node .",
+    "dev": "nodemon ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+} 
